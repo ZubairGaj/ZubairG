@@ -1,0 +1,14 @@
+body{
+  background-color: black !important;
+}
+
+.center-content{
+  padding: 25%;
+}
+
+.text-theme{
+  font-size: 10px;
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  text-align: center;
+}
