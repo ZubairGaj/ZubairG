@@ -1,5 +1,5 @@
 body{
-  background-color: black !important;
+  background-color: blacks !important;
 }
 
 .center-content{
@@ -8,7 +8,24 @@ body{
 
 .text-theme{
   font-size: 10px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: Futura;
+  font-style: italic;
+  font-style: oblique;
   color: white;
+  background-color: black;
   text-align: center;
+}
+
+.text-theme a{
+  font-size: 10px;
+  font-family: Futura;
+  font-style: italic;
+  font-style: oblique;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.text-theme a:hover{
+  color: white;
 }
